@@ -37,6 +37,12 @@
   .sales-header-cta{padding:8px 12px;font-size:12px}
   .header-actions .menu-toggle{margin-left:0}
 }
-@media(max-width:420px){
-  .sales-header-cta{font-size:11px;padding:8px 10px}
+@media(max-width:480px){
+  .header-inner{gap:8px;min-width:0}
+  .site-header .brand span:not(.brand-mark){
+    position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0
+  }
+  .header-actions{gap:6px;margin-left:auto;flex-shrink:0}
+  .sales-header-cta{padding:8px 10px;font-size:12px;max-width:58vw}
+  .header-actions .menu-toggle{padding:8px 10px}
 }
