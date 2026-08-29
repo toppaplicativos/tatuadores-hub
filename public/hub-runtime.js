@@ -63,7 +63,7 @@
     }
     function routeHeader(title, eyebrow) { return `${header()}<main id="main-content"><section class="route-hero"><div class="wrap"><p class="eyebrow">${esc(eyebrow)} · ${esc(CATEGORY.short)}</p><h1>${esc(title)}</h1></div></section>`; }
     function salesHeader() {
-      return `<style id="sales-header-fit">@media(max-width:480px){.site-header .brand-copy{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)} .header-inner{gap:8px;min-width:0} .header-actions{margin-left:auto;gap:6px;flex-shrink:0} .sales-header-cta{padding:8px 10px;font-size:12px}}</style><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Toppapps, início da loja de ${esc(CATEGORY.short)}"><span class="brand-mark" aria-hidden="true">${esc(CATEGORY.short.slice(0,2))}</span><span class="brand-copy">TOPPAPPS <em>· ${esc(CATEGORY.short)}</em></span></a><nav class="main-nav" id="main-nav" aria-label="Navegação da oferta"><a href="#metodo">Método</a><a href="#conteudo">Conteúdo</a><a href="#oferta">Acesso</a><a href="/suporte">Suporte</a></nav><div class="header-actions"><a class="button sales-header-cta" href="#oferta">Quero acessar agora</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">Menu</button></div></div></header>`;
+      return `<style id="sales-header-fit">@media(max-width:480px){.site-header .brand-copy{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)} .header-inner{gap:8px;min-width:0} .header-actions{margin-left:auto;gap:6px;flex-shrink:0} .sales-header-cta{padding:8px 10px;font-size:12px}}</style><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Toppapps, início da loja de ${esc(CATEGORY.short)}"><span class="brand-mark" aria-hidden="true">${esc(CATEGORY.short.slice(0,2))}</span><span class="brand-copy">TOPPAPPS <em>· ${esc(CATEGORY.short)}</em></span></a><nav class="main-nav" id="main-nav" aria-label="Navegação da oferta"><a href="#metodo">Método</a><a href="#conteudo">Conteúdo</a><a href="#oferta">Acesso</a><a href="/suporte">Suporte</a></nav><div class="header-actions"><a class="button sales-header-cta" href="https://pay.kiwify.com.br/zZsQA1d" target="_blank" rel="noreferrer">Quero acessar agora</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">Menu</button></div></div></header>`;
     }
     function salesPage(product) {
       document.title = `${product.title} | ${CATEGORY.short}`;
@@ -100,7 +100,7 @@
 <p class="sales-kicker">Atendimento para tatuadores</p>
 <h1>A conversa no WhatsApp precisa de uma rota — não de mais um texto salvo.</h1>
 <p class="hero-lede">Um caminho claro para organizar contexto, apresentar o valor com escopo, pedir o sinal com respeito e definir o próximo passo — sem parecer automático e sem improvisar no meio da sessão.</p>
-<div class="hero-actions"><a class="button" href="#oferta">Quero acessar agora</a><a class="button secondary" href="#exemplos">Ver exemplos reais do material</a></div>
+<div class="hero-actions"><a class="button" href="https://pay.kiwify.com.br/zZsQA1d" target="_blank" rel="noreferrer">Quero acessar agora</a><a class="button secondary" href="#exemplos">Ver exemplos reais do material</a></div>
 <p class="hero-note">Guia em PDF + 100 mensagens + 3 bônus · R$ 27,90 · garantia de 7 dias</p>
 </div><img class="sales-media" src="/product/hero.webp?v=rosto-2" alt="Mãos tatuadas conduzindo uma conversa no celular, sobre a bancada do estúdio." width="1792" height="1008"></div></section>
 ${confidence()}
@@ -170,9 +170,9 @@ ${confidence()}
 <li>Checklist, política de sinal e follow-up</li>
 </ul>
 <div class="actions" style="margin-top:22px">
-<a class="button" href="mailto:suporte@toppapps.online?subject=${encodeURIComponent('Acesso — WhatsApp que Fecha')}">Falar com o suporte sobre o acesso</a>
+<a class="button" href="https://pay.kiwify.com.br/zZsQA1d" target="_blank" rel="noreferrer">Quero acessar agora</a>
 </div>
-<p class="note-soft">O pagamento acontece no checkout oficial da Kiwify. Esta página só publica o link quando ele estiver ativo — não há cobrança aqui.</p>
+<p class="note-soft">O botão abre o checkout oficial da Kiwify. Confira nome, preço e garantia antes de pagar.</p>
 <p class="note-ok">Garantia de 7 dias pelo CDC. Se o material não servir, escreva para ${SUPPORT_EMAIL}.</p>
 </aside>
 </div></section>
