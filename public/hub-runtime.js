@@ -1,4 +1,4 @@
-    const CATEGORY = {"key":"tatuadores","short":"TATUADORES","label":"Atendimento, agenda e relacionamento para tatuadores","host":"tattoo.toppapps.online","title":"Soluções para atender melhor, organizar a agenda e proteger o próximo passo.","description":"Guias e ferramentas planejadas para tatuadores que querem reduzir ruído no atendimento e conduzir cada conversa com mais clareza.","accent":"#e11d2e","accent_soft":"#fde8ea","deep":"#0a0a0a","hero_asset":"/assets/hero-tatuadores-1.webp","hero_alt":"Tatuador na bancada do estúdio conduzindo uma conversa no celular","slides":[{"title":"A conversa começa antes do orçamento.","copy":"Organize o caminho entre primeira mensagem, contexto e próximo passo sem improviso.","image":"/assets/hero-tatuadores-1.webp","alt":"Destaque editorial 1 de TATUADORES"},{"title":"Uma agenda protegida reduz ruído.","copy":"Reúna informações importantes e deixe combinados mais fáceis de revisar.","image":"/assets/hero-tatuadores-2.webp","alt":"Destaque editorial 2 de TATUADORES"},{"title":"Atendimento também é experiência.","copy":"Escolha uma solução por objetivo e mantenha o foco no trabalho que precisa acontecer.","image":"/assets/hero-tatuadores-3.webp","alt":"Destaque editorial 3 de TATUADORES"}],"collections":[["atendimento","Atender com clareza","Para organizar respostas, contexto e próximos passos."],["agenda","Proteger a agenda","Para reunir combinados e reduzir desencontros antes da sessão."],["relacionamento","Cuidar do relacionamento","Para retomar conversas e manter o contato com mais intenção."]],"products":[{"slug":"whatsapp-que-fecha","title":"WhatsApp que Fecha — 100 Mensagens para Tatuadores","subtitle":"Rota de conversa no WhatsApp","description":"Guia com o método ROTA CERTA, 100 mensagens e bônus para briefing, sinal e follow-up no WhatsApp.","objective":"Atendimento","theme":"Conversas comerciais","audience":"Tatuadores que recebem pedidos pelo WhatsApp","format":"Guia digital + aplicação","delivery":"Publicação em preparação","price":null,"status":"planned","priority":1,"collection":"atendimento","tags":["whatsapp","atendimento","orçamento","conversa"],"featured":true,"cover":"/assets/covers/whatsapp-que-fecha.webp"},{"slug":"cliente-sumiu","title":"Cliente Sumiu?","subtitle":"Retomada de conversas","description":"Critérios para retomar uma conversa sem pressão, registrar o contexto e decidir quando seguir ou encerrar.","objective":"Relacionamento","theme":"Follow-up","audience":"Tatuadores que perdem o fio depois do primeiro contato","format":"Guia digital","delivery":"Publicação em preparação","price":null,"status":"planned","priority":2,"collection":"relacionamento","tags":["cliente","follow-up","retomar","conversa"],"featured":true,"cover":"/assets/covers/cliente-sumiu.webp"},{"slug":"agenda-protegida","title":"Agenda Protegida","subtitle":"Organização de combinados","description":"Uma estrutura planejada para reunir informações da sessão, combinados e próximos passos antes de reservar tempo na agenda.","objective":"Agenda","theme":"Combinados e organização","audience":"Tatuadores que querem reduzir desencontros","format":"Guia digital + miniapp","delivery":"Publicação em preparação","price":null,"status":"planned","priority":3,"collection":"agenda","tags":["agenda","sessão","combinados","organização"],"featured":true,"cover":"/assets/covers/agenda-protegida.webp"}],"faqs":[["O hub é uma ferramenta de agendamento?","Não. O hub organiza a descoberta das soluções. Cada página individual informa o estado real da oferta e do próximo passo."],["As soluções garantem mais clientes?","Não há promessa de resultado externo. O foco é organizar atendimento, comunicação e critérios de decisão."],["Quando as ofertas poderão ser compradas?","As ofertas aparecem como planejadas até que bundle, checkout, suporte e QA estejam confirmados no fluxo oficial."]]};
+    const CATEGORY = {"key":"tatuadores","short":"TATUADORES","label":"Atendimento, agenda e relacionamento para tatuadores","host":"tattoo.toppapps.online","title":"Soluções para atender melhor, organizar a agenda e proteger o próximo passo.","description":"Guias e ferramentas planejadas para tatuadores que querem reduzir ruído no atendimento e conduzir cada conversa com mais clareza.","accent":"#e11d2e","accent_soft":"#fde8ea","deep":"#0a0a0a","hero_asset":"/assets/hero-tatuadores-1.webp","hero_alt":"Tatuador na bancada do estúdio conduzindo uma conversa no celular","slides":[{"title":"A conversa começa antes do orçamento.","copy":"Organize o caminho entre primeira mensagem, contexto e próximo passo sem improviso.","image":"/assets/hero-tatuadores-1.webp","alt":"Destaque editorial 1 de TATUADORES"},{"title":"Uma agenda protegida reduz ruído.","copy":"Reúna informações importantes e deixe combinados mais fáceis de revisar.","image":"/assets/hero-tatuadores-2.webp","alt":"Destaque editorial 2 de TATUADORES"},{"title":"Atendimento também é experiência.","copy":"Escolha uma solução por objetivo e mantenha o foco no trabalho que precisa acontecer.","image":"/assets/hero-tatuadores-3.webp","alt":"Destaque editorial 3 de TATUADORES"}],"collections":[["atendimento","Atender com clareza","Para organizar respostas, contexto e próximos passos."],["agenda","Proteger a agenda","Para reunir combinados e reduzir desencontros antes da sessão."],["relacionamento","Cuidar do relacionamento","Para retomar conversas e manter o contato com mais intenção."]],"products":[{"slug":"whatsapp-que-fecha","title":"WhatsApp que Fecha — 100 Mensagens para Tatuadores","subtitle":"Rota de conversa no WhatsApp","description":"Guia com o método ROTA CERTA, 100 mensagens e bônus para briefing, sinal e follow-up no WhatsApp.","objective":"Atendimento","theme":"Conversas comerciais","audience":"Tatuadores que recebem pedidos pelo WhatsApp","format":"Guia digital + aplicação","delivery":"Publicação em preparação","price":null,"status":"planned","priority":1,"collection":"atendimento","tags":["whatsapp","atendimento","orçamento","conversa"],"featured":true,"cover":"/assets/covers/whatsapp-que-fecha.webp"},{"slug":"cliente-sumiu","title":"Cliente Sumiu? Recupere em 5 Passos","subtitle":"Sequência de recuperação no WhatsApp","description":"Método VOLTA, 40 mensagens e bônus para reabrir a conversa depois do orçamento — ou encerrá-la com dignidade.","objective":"Relacionamento","theme":"Follow-up","audience":"Tatuadores que ficam no vácuo depois do orçamento","format":"Guia digital + 40 mensagens","delivery":"Página de vendas no ar","price":2790,"status":"planned","priority":2,"collection":"relacionamento","tags":["cliente","follow-up","retomar","conversa"],"featured":true,"cover":"/assets/covers/cliente-sumiu.webp"},{"slug":"agenda-protegida","title":"Agenda Protegida","subtitle":"Organização de combinados","description":"Uma estrutura planejada para reunir informações da sessão, combinados e próximos passos antes de reservar tempo na agenda.","objective":"Agenda","theme":"Combinados e organização","audience":"Tatuadores que querem reduzir desencontros","format":"Guia digital + miniapp","delivery":"Publicação em preparação","price":null,"status":"planned","priority":3,"collection":"agenda","tags":["agenda","sessão","combinados","organização"],"featured":true,"cover":"/assets/covers/agenda-protegida.webp"}],"faqs":[["O hub é uma ferramenta de agendamento?","Não. O hub organiza a descoberta das soluções. Cada página individual informa o estado real da oferta e do próximo passo."],["As soluções garantem mais clientes?","Não há promessa de resultado externo. O foco é organizar atendimento, comunicação e critérios de decisão."],["Quando as ofertas poderão ser compradas?","As ofertas aparecem como planejadas até que bundle, checkout, suporte e QA estejam confirmados no fluxo oficial."]]};
     const SUPPORT_EMAIL = 'suporte@toppapps.online';
     const app = document.getElementById('app');
     const pathParts = location.pathname.replace(/^\/+|\/+$/g,'').split('/').filter(Boolean);
@@ -62,10 +62,13 @@
       return `${header()}<main id="main-content">${hubHero()}${confidence()}${collectionSection()}${highlights()}${catalogSection(collection)}${relatedSection()}${supportSection()}${faqSection()}</main>${footer()}`;
     }
     function routeHeader(title, eyebrow) { return `${header()}<main id="main-content"><section class="route-hero"><div class="wrap"><p class="eyebrow">${esc(eyebrow)} · ${esc(CATEGORY.short)}</p><h1>${esc(title)}</h1></div></section>`; }
-    function salesHeader() {
-      return `<style id="sales-header-fit">@media(max-width:480px){.site-header .brand-copy{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)} .header-inner{gap:8px;min-width:0} .header-actions{margin-left:auto;gap:6px;flex-shrink:0} .sales-header-cta{padding:8px 10px;font-size:12px}}</style><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Toppapps, início da loja de ${esc(CATEGORY.short)}"><span class="brand-mark" aria-hidden="true">${esc(CATEGORY.short.slice(0,2))}</span><span class="brand-copy">TOPPAPPS <em>· ${esc(CATEGORY.short)}</em></span></a><nav class="main-nav" id="main-nav" aria-label="Navegação da oferta"><a href="#metodo">Método</a><a href="#conteudo">Conteúdo</a><a href="#oferta">Acesso</a><a href="/suporte">Suporte</a></nav><div class="header-actions"><a class="button sales-header-cta" href="https://pay.kiwify.com.br/zZsQA1d" target="_blank" rel="noreferrer">Quero acessar agora</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">Menu</button></div></div></header>`;
+    function salesHeader(ctaHref) {
+      const href = ctaHref || 'https://pay.kiwify.com.br/zZsQA1d';
+      const extra = String(href).startsWith('http') ? ' target="_blank" rel="noreferrer"' : '';
+      return `<style id="sales-header-fit">@media(max-width:480px){.site-header .brand-copy{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)} .header-inner{gap:8px;min-width:0} .header-actions{margin-left:auto;gap:6px;flex-shrink:0} .sales-header-cta{padding:8px 10px;font-size:12px}}</style><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Toppapps, início da loja de ${esc(CATEGORY.short)}"><span class="brand-mark" aria-hidden="true">${esc(CATEGORY.short.slice(0,2))}</span><span class="brand-copy">TOPPAPPS <em>· ${esc(CATEGORY.short)}</em></span></a><nav class="main-nav" id="main-nav" aria-label="Navegação da oferta"><a href="#metodo">Método</a><a href="#conteudo">Conteúdo</a><a href="#oferta">Acesso</a><a href="/suporte">Suporte</a></nav><div class="header-actions"><a class="button sales-header-cta" href="${href}"${extra}>Quero acessar agora</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">Menu</button></div></div></header>`;
     }
     function salesPage(product) {
+      if (product.slug === 'cliente-sumiu') return salesPageCliente(product);
       document.title = `${product.title} | ${CATEGORY.short}`;
       const samples = [
         ['Quanto custa?', 'Oi, quanto fica uma tatuagem?', 'Oi, [nome]. Consigo te passar um valor justo quando eu tiver tamanho aproximado, local no corpo e uma referência. Pode me mandar isso? Com essas três coisas eu te devolvo o orçamento com o que está incluso.'],
@@ -191,6 +194,127 @@ ${supportSection()}
 </main>${footer()}`;
     }
 
+    function salesPageCliente(product) {
+      document.title = `${product.title} | ${CATEGORY.short}`;
+      const wa = `<svg class="wa-mark" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>`;
+      const ticks = `<svg class="wa-ticks" viewBox="0 0 16 11" aria-hidden="true"><path fill="currentColor" d="M11.07 1.14 5.4 7.07 3.1 4.86l-.9.86 3.2 3.07 6.57-6.79-.9-.86zm3.16 0-5.67 5.93-.7-.67-.9.86 1.6 1.53 6.57-6.79-.9-.86z"/></svg>`;
+      const volta = [
+        ['V','01','Ver o tipo de silêncio','Visualizou o orçamento, pediu tempo, foi consultar alguém ou sumiu antes do valor.'],
+        ['O','02','Observar a janela','Não tocar em 20 minutos. D+1 confirma, D+3 adiciona valor, D+7 encerra.'],
+        ['L','03','Ligar valor','O primeiro toque leva uma razão para responder — nunca “e aí?”.'],
+        ['T','04','Trocar o ângulo','O segundo toque muda o assunto: recorte, vaga real, desenho na mesa.'],
+        ['A','05','Arquivar com dignidade','O último toque fecha o ciclo, deixa a porta e para.']
+      ];
+      const samples = [
+        ['Visualizou e parou','Ok, valeu pelo valor','Toque 1 · Ligar valor','Oi, [nome]. Confirmando que o orçamento da [peça] chegou: [valor], válido até [prazo]. Se ainda fizer sentido, o próximo passo é o sinal de [sinal] para reservar. Se quiser ajustar tamanho ou local, me diz que eu refaço o número.'],
+        ['Visualizou e parou','','Toque 2 · Trocar o ângulo','Passei de novo no desenho da [peça]. Se o valor cheio ficou pesado, dá para começar por um recorte menor — eu te mando essa versão com o tempo de sessão. Quer ver?'],
+        ['Vou pensar','Vou pensar e te falo','Toque 1 · Ligar valor','Tranquilo pensar, [nome]. Deixo o orçamento da [peça] válido até [prazo]. Se surgir alguma dúvida de tamanho, local ou sessão, pode mandar aqui — eu respondo com o que muda no valor.'],
+        ['Vou pensar','','Toque 3 · Arquivar','Último retorno sobre a [peça], [nome]. Se agora não for o momento, sem problema — eu encerro o orçamento e libero o horário. Se quiser retomar depois, é só puxar esta conversa.'],
+        ['Foi consultar','Vou ver com meu namorado e te falo','Toque 1 · Ligar valor','Combinado, [nome]. Se ajudar na conversa: o valor [valor] cobre desenho, sessão de [tempo] e os cuidados. O sinal de [sinal] só reserva a data — o restante fica para o dia. Qualquer dúvida que aparecer aí, me manda.'],
+        ['Sumiu no briefing','Mandei a foto da referência','Toque 1 · Ligar valor','Recebi a referência, [nome]. Para orçar com precisão ainda falta o local no corpo e o tamanho aproximado em centímetros. Com essas duas eu te devolvo o valor e o tempo de sessão.'],
+        ['Último toque','','Arquivar com porta','Vou encerrar por aqui o orçamento da [peça], [nome]. Fica registrado o valor [valor] e a validade que combinamos. Se no futuro fizer sentido, esta conversa continua valendo como ponto de partida.'],
+        ['Voltou meses depois','Oi, ainda faz essa tattoo?','Reentrada','Oi, [nome]. Faz sim. O orçamento antigo da [peça] não vale mais, porque tempo de sessão e agenda mudaram. Me confirma se local e tamanho continuam os mesmos — eu te passo o valor atualizado e as datas que estão abertas.']
+      ];
+      const ctaHref = '#oferta';
+      return `${salesHeader(ctaHref)}<main id="main-content">
+<section class="sales-hero"><div class="wrap sales-hero-grid"><div>
+<p class="sales-kicker">${wa} Cliente Sumiu? Recupere em 5 passos</p>
+<h1>O orçamento foi visto. A conversa parou. Faltam 5 passos — não mais um “e aí?”.</h1>
+<p class="hero-lede">Um caminho para classificar o silêncio, esperar a janela certa, reabrir com valor, mudar o ângulo e encerrar com dignidade. Sem perseguir. Sem desconto de pânico. Sem fingir que todo mundo volta.</p>
+<div class="hero-actions"><a class="button" href="${ctaHref}">Quero acessar agora</a><a class="button secondary" href="#exemplos">Ver os 5 passos no WhatsApp</a></div>
+<p class="hero-note">Guia em PDF + 40 mensagens de recuperação + 3 bônus · R$ 27,90 · garantia de 7 dias</p>
+</div><img class="sales-media" src="/assets/covers/cliente-sumiu.webp" alt="Tatuador no estúdio olhando o celular depois de um orçamento sem resposta." width="1600" height="1000"></div></section>
+${confidence()}
+<section class="section" id="problema"><div class="wrap deliver-grid"><div>
+<p class="eyebrow">O ponto em que o follow-up quebra</p>
+<h2>O orçamento foi visto. Você está tatuando. A conversa não volta.</h2>
+<p class="copy">Não é falta de insistência. É falta de um caminho: que silêncio é esse, quando tocar, o que dizer de novo e quando parar.</p>
+<div class="pain-list">
+<article class="pain-item"><h3>Você manda “viu o orçamento?”</h3><p>A pessoa já leu. A pergunta não adiciona nada. Parece cobrança — e a conversa esfria de vez.</p></article>
+<article class="pain-item"><h3>O follow-up sai no improviso</h3><p>Um toque cedo demais. Outro três semanas depois. Nenhum tem motivo novo.</p></article>
+<article class="pain-item"><h3>Você trata todo silêncio igual</h3><p>Quem visualizou o valor, quem disse “vou pensar” e quem sumiu no briefing não pedem a mesma mensagem.</p></article>
+<article class="pain-item"><h3>Encerrar parece derrota</h3><p>Sem um último toque claro, a conversa fica aberta para sempre.</p></article>
+</div></div>
+<img class="sales-media tall" src="/product/pain.webp?v=cs-1" alt="Tatuador à noite no estúdio, celular na mão, conversa sem resposta." width="1792" height="1008">
+</div></section>
+<section class="section dark" id="metodo"><div class="wrap">
+<p class="eyebrow">Os 5 passos · método VOLTA</p>
+<h2>Recuperar a conversa — ou encerrá-la limpa.</h2>
+<p class="copy">VOLTA é o caminho. Não promete que a pessoa volte. Promete o que fazer em cada toque, e quando o profissionalismo é parar.</p>
+<div class="certa-row">${volta.map(([l,n,t,c]) => `<article class="rota-card"><span class="rota-letter">${l}</span><h3>${esc(t)}</h3><p>${esc(c)}</p></article>`).join('')}</div>
+<div class="certa-row" style="margin-top:14px">
+<article class="rota-card"><h3>Nas primeiras 24h</h3><p>Não cobre. A pessoa ainda está comparando, falando com alguém ou só ocupada.</p></article>
+<article class="rota-card"><h3>D+1</h3><p>Toque 1: confirma que o orçamento chegou e oferece um próximo passo mínimo.</p></article>
+<article class="rota-card"><h3>D+3</h3><p>Toque 2: ângulo novo. Se repetir o mesmo texto, vira pressão.</p></article>
+<article class="rota-card"><h3>D+7</h3><p>Toque 3: encerra com educação. Depois disso, silêncio seu também é profissional.</p></article>
+<article class="rota-card"><h3>Não recuperar</h3><p>Já disse não, já fechou em outro lugar, ofendeu ou você já deu os 3 toques.</p></article>
+</div></div></section>
+<section class="section light" id="conteudo"><div class="wrap">
+<p class="eyebrow">Passo 1 na prática</p>
+<h2>Quatro silêncios. Quatro textos.</h2>
+<p class="copy">Antes de mandar qualquer coisa, o guia pede para etiquetar a conversa.</p>
+<div class="chapter-grid">
+<article class="chapter-row"><b>01</b><div><h3>Visualizou e parou</h3><p>O orçamento foi lido. Susto com o número, comparação ou decisão adiada.</p></div></article>
+<article class="chapter-row"><b>02</b><div><h3>Disse “vou pensar”</h3><p>Pediu espaço. O erro é cobrar no dia seguinte como se o combinado não valesse.</p></div></article>
+<article class="chapter-row"><b>03</b><div><h3>Foi consultar alguém</h3><p>A conversa depende de um terceiro — o texto precisa facilitar, não atropelar.</p></div></article>
+<article class="chapter-row"><b>04</b><div><h3>Sumiu no briefing</h3><p>Mandou referência e desapareceu antes do valor. É retomar o contexto, não cobrar preço.</p></div></article>
+</div></div></section>
+<section class="section" id="exemplos"><div class="wrap">
+<p class="eyebrow sales-kicker">${wa} Exemplos reais do material</p>
+<h2>Assim o cliente some — e assim você retoma.</h2>
+<p class="copy">Oito trechos do banco, no visual da conversa, cada um amarrado a um passo. Os colchetes são para você preencher.</p>
+<div class="msg-grid">${samples.map(([s,incoming,label,msg]) => `<article class="wa-chat"><header class="wa-bar"><span class="wa-avatar">${wa}</span><div><strong>${esc(s)}</strong><span>${esc(label)}</span></div></header><div class="wa-thread">${incoming ? `<div class="wa-in">${esc(incoming)}</div>` : `<p class="wa-meta" style="margin:0 0 8px">sem resposta · você retoma</p>`}<div class="wa-out">${esc(msg)}<span class="wa-meta">14:32 ${ticks}</span></div></div></article>`).join('')}</div>
+<p class="copy" style="margin-top:18px">O banco completo traz 40 mensagens, com quando usar e qual ação vem depois.</p>
+</div></section>
+<section class="section light"><div class="wrap deliver-grid"><div>
+<p class="eyebrow">O que você recebe</p>
+<h2>Os 5 passos no guia. As 40 mensagens para o dia seguinte.</h2>
+<div class="deliver-list">
+<article class="pain-item"><h3>Guia Cliente Sumiu? Recupere em 5 Passos</h3><p>PDF com o método VOLTA, os 4 tipos de silêncio, a janela de toques e quando encerrar.</p></article>
+<article class="pain-item"><h3>40 mensagens de recuperação</h3><p>Organizadas por tipo de silêncio e por passo, com quando usar e o próximo passo.</p></article>
+<article class="pain-item"><h3>Bônus: mapa, calendário e reentrada</h3><p>Mapa dos 4 silêncios, calendário D+1 / D+3 / D+7 e script de quando a pessoa volta meses depois.</p></article>
+</div></div>
+<div>
+<img class="sales-media" src="/product/cs-cover.webp" alt="Capa do guia Cliente Sumiu? Recupere em 5 Passos." width="1200" height="800">
+<img class="sales-media" style="margin-top:14px;height:220px" src="/product/notebook.webp?v=cs-1" alt="Caderno aberto com a sequência de recuperação." width="1728" height="1152">
+</div></div></section>
+<section class="section"><div class="wrap who-grid">
+<article class="who-card"><p class="eyebrow">Para quem é</p><h2>Se o vácuo depois do orçamento te cobra.</h2><ul><li>Tatuadores que enviam orçamento pelo WhatsApp e ficam no vácuo.</li><li>Quem já tentou follow-up e sentiu que estava cobrando.</li><li>Quem precisa de um limite: três toques e encerra.</li></ul></article>
+<article class="who-card dark"><p class="eyebrow">Para quem não é</p><h2>Se você quer que todo mundo volte.</h2><ul><li>Quem busca um texto que faz todo mundo voltar.</li><li>Quem quer sequência infinita, disparo em massa ou desconto automático.</li><li>Quem espera garantia de agenda cheia ou faturamento.</li></ul></article>
+</div></section>
+<section class="section light" id="oferta"><div class="wrap offer-grid">
+<img class="sales-media" src="/product/cs-cover.webp" alt="Capa do guia Cliente Sumiu? Recupere em 5 Passos." width="1200" height="800">
+<aside class="offer-box">
+<p class="eyebrow">Acesso</p>
+<h2>${esc(product.title)}</h2>
+<p>Sequência de recuperação no WhatsApp para tatuadores</p>
+<p class="price">R$&nbsp;27,90</p>
+<p>Pagamento único · acesso digital · garantia de 7 dias</p>
+<ul>
+<li>Guia em PDF com o método VOLTA</li>
+<li>40 mensagens de recuperação</li>
+<li>Mapa dos silêncios, calendário e reentrada</li>
+</ul>
+<div class="actions" style="margin-top:22px">
+<a class="button" href="#exemplos">Ver os 5 passos no material</a>
+</div>
+<p class="note-soft">O pagamento acontece no checkout oficial da Kiwify. Esta página só publica o link quando ele estiver ativo — não há cobrança aqui.</p>
+<p class="note-ok">Garantia de 7 dias pelo CDC. Se o material não servir, escreva para ${SUPPORT_EMAIL}.</p>
+</aside>
+</div></section>
+<section class="section"><div class="wrap">
+<p class="eyebrow">Perguntas</p>
+<h2>Antes de decidir, leia isto.</h2>
+<div class="faq-list">
+<details><summary>O que eu recebo depois do pagamento?</summary><p>O guia em PDF com os 5 passos, as 40 mensagens de recuperação e os três bônus. Acesso digital, depois da confirmação no checkout oficial.</p></details>
+<details><summary>Preciso do WhatsApp que Fecha para usar este?</summary><p>Não é obrigatório. Se o problema é o silêncio depois do valor, este guia resolve sozinho.</p></details>
+<details><summary>E se eu parecer insistente?</summary><p>O método limita a três toques, troca o ângulo a cada um e encerra. Insistência é repetir “viu o orçamento?”.</p></details>
+<details><summary>Toda pessoa que some volta com isso?</summary><p>Não. O material não promete retorno. Entrega um caminho para reabrir a conversa ou fechá-la com respeito.</p></details>
+<details><summary>E a garantia?</summary><p>7 dias, conforme o Código de Defesa do Consumidor. Escreva para ${SUPPORT_EMAIL} dentro desse prazo.</p></details>
+</div></div></section>
+${supportSection()}
+</main>${footer()}`;
+    }
     function productPage(product) {
       const live = product.status === 'live';
       document.title = `${product.title} | ${CATEGORY.short}`;
@@ -218,7 +342,7 @@ ${supportSection()}
       let output;
       if (pathParts.length === 0) output = hub();
       else if (pathParts[0] === 'categoria' && pathParts[1] && CATEGORY.collections.some(([slug]) => slug === pathParts[1])) output = hub(pathParts[1]);
-      else if (pathParts[0] === 'p' && pathParts[1] && findProduct(pathParts[1])) { const _p = findProduct(pathParts[1]); output = _p.slug === 'whatsapp-que-fecha' ? salesPage(_p) : productPage(_p); }
+      else if (pathParts[0] === 'p' && pathParts[1] && findProduct(pathParts[1])) { const _p = findProduct(pathParts[1]); output = (_p.slug === 'whatsapp-que-fecha' || _p.slug === 'cliente-sumiu') ? salesPage(_p) : productPage(_p); }
       else if (pathParts[0] === 'app' && pathParts[1] && findProduct(pathParts[1])) output = appPage(findProduct(pathParts[1]));
       else if (pathParts[0] === 'obrigado' && pathParts[1] && findProduct(pathParts[1])) output = thanksPage(findProduct(pathParts[1]));
       else if (pathParts[0] === 'suporte') output = supportPage();
